@@ -92,7 +92,7 @@ def ejecutar_plataforma():
     plataforma = PlataformaVirtual()
     
     while True:
-        print("\n--- PLATAFORMA VIRTUAL ---")
+        print("\nPLATAFORMA VIRTUAL")
         print("1. Registrar Estudiante\n2. Registrar Profesor\n3. Buscar Usuario (ID)\n4. Ver Todos\n5. Salir")
         op = input("Seleccione: ")
         
